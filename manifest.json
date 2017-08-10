@@ -6,16 +6,15 @@
 
 	"description": "Finds and defines big words",
 	"homepage_url": "https://github.com/kbourne87/dictionary",
-
 	"content_scripts": [
 	{
-		"matches": ["*://*/"],
+		"matches": ["http://*/*", "https://*/*"],
 		"js": ["wordfinder.js"]
 	}
 	],
 
 	"web_accessible_resources": [
-		"newdictionary.js",
-		"wordbox.css"
+		"js/newdictionary.js",
+		"css/wordbox.css"
 	]
 }
