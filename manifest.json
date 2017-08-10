@@ -14,7 +14,7 @@
 	],
 
 	"web_accessible_resources": [
-		"js/newdictionary.js",
-		"css/wordbox.css"
+		"newdictionary.js",
+		"wordbox.css"
 	]
 }
