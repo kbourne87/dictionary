@@ -5,7 +5,8 @@
 	{word: "MERCURIAL", defOne: "Subject to sudden or unpredictable changes of mood or mind", defTwo: "of or containing the element mercury"},
 	{word: "butt", defOne: "booty"},
 	{word: "proscribe", defOne: "forbid, especially by law", defTwo: "denounce or condemn"},
-	{word: "esoteric", defOne: "likely to be understood only by a small number of people", defTwo: "obscure"}
+	{word: "esoteric", defOne: "likely to be understood only by a small number of people", defTwo: "obscure"},
+	{word: "scalability", defOne: "able to be scaled", defTwo: "hope this works"}
 
 
 
